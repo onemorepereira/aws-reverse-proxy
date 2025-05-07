@@ -17,6 +17,8 @@ This Terraform project provisions a **highly available, scalable reverse proxy**
 - **IAM roles** to allow EC2 access via AWS SSM (Session Manager)
 - A basic **logging system** using `rsyslog` and `logrotate`
 
+![img](./assets/aws-reprox.png)
+
 ---
 
 ## 📋 Prerequisites
